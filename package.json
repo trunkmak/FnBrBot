@@ -20,7 +20,7 @@
   "license": "ISC",
   "dependencies": {
     "ascii-table": "^0.0.9",
-    "fnbr": "^3.0.0",
+    "fnbr": "^4.1.0",
     "ms": "^2.1.3",
     "node-fetch": "^2.6.7"
   }
